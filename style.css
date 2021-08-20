@@ -52,12 +52,6 @@ section.main header{/*isso vai fazer com q toda a area seja clicavel*/
 
 .icons-social{
 	float: right;
-	width:50px;
-	height:50px;
-}
-.icons-social img{
-	width:50px;
-	height:50px;
 }
 .icons-social a{
 	color: white;
