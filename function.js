@@ -1,4 +1,3 @@
-<script>
     $(function(){
         $('nav.mobile i').click(function(){
             var el = $(this).parent().find('ul');
@@ -9,4 +8,3 @@
             }
         })
     })
-</script>
