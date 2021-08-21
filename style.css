@@ -53,6 +53,16 @@ section.main header{/*isso vai fazer com q toda a area seja clicavel*/
 .icons-social{
 	float: right;
 }
+.icons-social img{
+	width:20px;
+	height:20px;
+}
+
+.icons-social > .face img{
+	width:25px;
+	height:25px;
+}
+
 .icons-social a{
 	color: white;
 	text-decoration: none;
@@ -74,12 +84,14 @@ nav.mobile{
 }
 
 
-nav.mobile > i{
+nav.mobile > img{
 	position: relative;
 	top: 23px;
 	cursor: pointer;
 	font-size: 25px;
 	color: white;
+	width:30px;
+	height:30px;
 }
 
 
