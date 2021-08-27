@@ -411,6 +411,10 @@ footer{
 }
 
 @media screen and (max-width: 768px){
+	body{
+	overflow-y:scroll;
+    	-webkit-overflow-scrolling:touch;
+	}
 	nav.mobile{
 		display: block;
 	}
